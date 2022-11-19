@@ -11,4 +11,4 @@ while (index < size); do
 
 avg = sum / size;
 
-print(avg);    
+print(avg);
